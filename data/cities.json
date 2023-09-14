@@ -37,30 +37,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 4325345
-    },
-    {
       "cityName": "Barcaluna",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -97,28 +73,16 @@
       "id": 98443199
     },
     {
-      "cityName": "Muhlhausen",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2023-09-14T12:21:29.941Z",
-      "notes": "fasfas",
-      "position": {
-        "lat": "51.23381600939428",
-        "lng": "10.546790322233765"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Wari",
+      "cityName": "Darel Tangir",
       "country": "Pakistan",
       "emoji": "🇵🇰",
-      "date": "2023-09-14T12:22:17.500Z",
-      "notes": "asdf",
+      "date": "2023-09-14T13:55:38.578Z",
+      "notes": "tesst",
       "position": {
-        "lat": "34.902020481314935",
-        "lng": "72.07032049254428"
+        "lat": "35.691281916404236",
+        "lng": "74.1137587305145"
       },
-      "id": 98443201
+      "id": 98443202
     }
   ]
 }
