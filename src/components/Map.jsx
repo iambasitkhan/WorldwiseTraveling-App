@@ -16,7 +16,9 @@ import Button from "./Button";
 import { useUrlPosition } from "../Hooks/useUrlPosition";
 
 export default function Map() {
-  const [mapPosition, setMapPosition] = useState([40, 0]);
+  const [mapPosition, setMapPosition] = useState([
+    33.64649536409499, 73.01925524170497,
+  ]);
   const { cities } = useCities();
   const {
     isLoading: isLoadingPosition,
