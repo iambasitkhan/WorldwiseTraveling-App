@@ -42,7 +42,7 @@ export default function Map() {
   );
 
   return (
-    <div className={styles.mapContainer} onClick={() => navigate("form")}>
+    <div className={styles.mapContainer}>
       {!geoLocationPosition && (
         <Button type="position" onClick={getPosition}>
           {isLoadingPosition ? "Loading..." : "Use your Position"}
@@ -87,7 +87,7 @@ function DetectClick() {
 
   useMapEvents({
     click: (e) => {
-      navigate(`form?lat=${e.latlng.lat}&lng${e.latlng.lng}`);
+      navigate(`form?lat=${e.latlng.lat}&lng=${e.latlng.lng}`);
     },
   });
 }
